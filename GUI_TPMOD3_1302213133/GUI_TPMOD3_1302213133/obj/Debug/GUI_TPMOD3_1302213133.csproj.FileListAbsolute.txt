@@ -1,0 +1,11 @@
+C:\Users\Zeraume\OneDrive\Documents\Kuliah\Semester 4\KPL\GUI_TPMOD3_1302213133\GUI_TPMOD3_1302213133\bin\Debug\GUI_TPMOD3_1302213133.exe.config
+C:\Users\Zeraume\OneDrive\Documents\Kuliah\Semester 4\KPL\GUI_TPMOD3_1302213133\GUI_TPMOD3_1302213133\bin\Debug\GUI_TPMOD3_1302213133.exe
+C:\Users\Zeraume\OneDrive\Documents\Kuliah\Semester 4\KPL\GUI_TPMOD3_1302213133\GUI_TPMOD3_1302213133\bin\Debug\GUI_TPMOD3_1302213133.pdb
+C:\Users\Zeraume\OneDrive\Documents\Kuliah\Semester 4\KPL\GUI_TPMOD3_1302213133\GUI_TPMOD3_1302213133\obj\Debug\GUI_TPMOD3_1302213133.csproj.AssemblyReference.cache
+C:\Users\Zeraume\OneDrive\Documents\Kuliah\Semester 4\KPL\GUI_TPMOD3_1302213133\GUI_TPMOD3_1302213133\obj\Debug\GUI_TPMOD3_1302213133.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeraume\OneDrive\Documents\Kuliah\Semester 4\KPL\GUI_TPMOD3_1302213133\GUI_TPMOD3_1302213133\obj\Debug\GUI_TPMOD3_1302213133.Form1.resources
+C:\Users\Zeraume\OneDrive\Documents\Kuliah\Semester 4\KPL\GUI_TPMOD3_1302213133\GUI_TPMOD3_1302213133\obj\Debug\GUI_TPMOD3_1302213133.Properties.Resources.resources
+C:\Users\Zeraume\OneDrive\Documents\Kuliah\Semester 4\KPL\GUI_TPMOD3_1302213133\GUI_TPMOD3_1302213133\obj\Debug\GUI_TPMOD3_1302213133.csproj.GenerateResource.cache
+C:\Users\Zeraume\OneDrive\Documents\Kuliah\Semester 4\KPL\GUI_TPMOD3_1302213133\GUI_TPMOD3_1302213133\obj\Debug\GUI_TPMOD3_1302213133.csproj.CoreCompileInputs.cache
+C:\Users\Zeraume\OneDrive\Documents\Kuliah\Semester 4\KPL\GUI_TPMOD3_1302213133\GUI_TPMOD3_1302213133\obj\Debug\GUI_TPMOD3_1302213133.exe
+C:\Users\Zeraume\OneDrive\Documents\Kuliah\Semester 4\KPL\GUI_TPMOD3_1302213133\GUI_TPMOD3_1302213133\obj\Debug\GUI_TPMOD3_1302213133.pdb
