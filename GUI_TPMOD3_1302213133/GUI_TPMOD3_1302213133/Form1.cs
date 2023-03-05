@@ -34,7 +34,7 @@ namespace GUI_TPMOD3_1302213133
 
         private void button2_MouseClick(object sender, MouseEventArgs e)
         {
-            this.label2.Text = "Halo " + this.textBox1.Text;
+            this.button1.Text = "Halo " + this.textBox1.Text;
         }
     }
 }
